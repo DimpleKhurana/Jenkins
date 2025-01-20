@@ -8,8 +8,8 @@ pipeline {
 	        MINOR = '0'
 	        //Orchestrator Services
 	        UIPATH_ORCH_URL = "https://cloud.uipath.com/"
-	        UIPATH_ORCH_LOGICAL_NAME = "selfydzdlov"
-	        UIPATH_ORCH_TENANT_NAME = "SelfDefault"
+	        UIPATH_ORCH_LOGICAL_NAME = "chiacnqidcmx"
+	        UIPATH_ORCH_TENANT_NAME = "ChiaconConsultingDefault"
 	        UIPATH_ORCH_FOLDER_NAME = "Default"
 	    }
 	
